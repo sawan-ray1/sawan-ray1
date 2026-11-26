@@ -74,6 +74,28 @@ Hi, I'm **Sawan Ray** (`@sawan-ray1`) — a software builder focused on **offlin
       <p><code>Python</code> • <code>Flask</code> • <code>HTML / CSS / JS</code> • <code>Networking</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/sawan-ray1/DeskPulse">DeskPulse</a></h3>
+      <p><strong>Evidence-Based IT Microbreak, Hydration &amp; Posture App</strong></p>
+      <ul>
+        <li>30-min focus sprint cockpit with 15-min meeting snooze, 2-min desk resets &amp; 5-min Columbia metabolic walks.</li>
+        <li>User-controlled guided breaks featuring 11 real-person exercise photos &amp; AAO 20-20-20 eye care.</li>
+        <li>6 synthesized PCM timer chimes, 3 studio themes, weekly Canvas stats &amp; <code>AlarmManager</code> reminders.</li>
+      </ul>
+      <p><code>Kotlin</code> • <code>Jetpack Compose</code> • <code>Material 3</code> • <code>AudioTrack</code> • <a href="https://github.com/sawan-ray1/DeskPulse">Repo ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://sawan-ray1.github.io">Portfolio &amp; Live Showcase</a></h3>
+      <p><strong>Interactive Project Explorer &amp; Engineering Architecture</strong></p>
+      <ul>
+        <li>Filterable project gallery across Android, Python Automation, and Web systems.</li>
+        <li>Detailed architecture modals with live screenshots, tech badges, and direct repository links.</li>
+        <li>Visit the live interactive portfolio at <a href="https://sawan-ray1.github.io">sawan-ray1.github.io</a>.</li>
+      </ul>
+      <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <a href="https://sawan-ray1.github.io">Live Site ↗</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
